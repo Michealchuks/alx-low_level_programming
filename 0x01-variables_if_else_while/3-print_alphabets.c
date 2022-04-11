@@ -3,9 +3,9 @@
 /**
  * main - Entry point
  *
- * Return: Always 0 (Sucess)
+ * Return: Always 0 (Sucess/correct)
  */
-int man(void)
+int main(void)
 
 {
 char lower_case;
