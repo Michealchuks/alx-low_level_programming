@@ -31,7 +31,7 @@ int main(void)
 			putchar(32);
 			if (j < 57)
 			{
-				j++;
+				i++;
 				j = 1 + i;
 			}
 		}
